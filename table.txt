@@ -1,0 +1,19 @@
+<html>
+<head><title>table representing</title>
+<style>
+table
+{ border:5px  solid black;
+ text aliegn :center;
+ }
+</style>
+<body>
+<h1>EMO SIR </h1>
+<table border="4"  width="300"  height="400" >
+<tr><th>Names</th><th>classes</th> <th>roll</th></tr>
+<tr><td>keerthi</td><td colspan="2">1</td></tr>
+<tr><td rowspan ="2">vamshi</td><td>22</td><td>2</td></tr>
+<tr><td> 2</td><td>33</td><tr>
+</body>
+</table>
+</html>
+
