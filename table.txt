@@ -9,9 +9,9 @@ table
 <body>
 <h1>EMO SIR </h1>
 <table border="4"  width="300"  height="400" >
-<tr><th>Names</th><th>classes</th> <th>roll</th></tr>
-<tr><td>keerthi</td><td colspan="2">1</td></tr>
-<tr><td rowspan ="2">vamshi</td><td>22</td><td>2</td></tr>
+<tr><th>Names</th><th>favorite</th> <th>hobbie</th></tr>
+<tr><td>keerthi</td><td colspan="2">dancing</td></tr>
+<tr><td rowspan ="2">vamshi</td><td>horse riding</td><td>playing</td></tr>
 <tr><td> 2</td><td>33</td><tr>
 </body>
 </table>
